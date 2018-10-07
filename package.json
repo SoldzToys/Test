@@ -1,0 +1,23 @@
+{
+  "name": "harryshades",
+  "version": "1.0.0",
+  "description": "",
+  "main": "harry.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Soldz",
+  "license": "ISC",
+  "dependencies": {
+    "array": "^0.4.3",
+    "discord.js": "^11.4.2",
+    "mongodb": "^3.1.6",
+    "mongoose": "^5.3.0",
+    "ms": "^2.1.1",
+    "mysql": "^2.16.0",
+    "parse-ms": "^2.0.0",
+    "snekfetch": "^4.0.4",
+    "strict-uri-encode": "^2.0.0",
+    "superagent": "^3.8.3"
+  }
+}
